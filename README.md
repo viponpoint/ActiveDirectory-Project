@@ -39,8 +39,6 @@ Will provide more info about this below.
 
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Crowbar
 - Splunk inputs.conf
