@@ -44,7 +44,7 @@ Will provide more info about this below.
 - Splunk inputs.conf
   
 ## Steps
-Our objective is to install our virtual machines on virtualbox. By the end of the installation, you should have one Windows 10 machine one Kali Linux up, one Splunk server, and one Windows Server 2022. Diagrams to follow
+The objective was to install virtual machines on virtualbox. By the end of the installation, i had one Windows 10 machine, one Kali Linux up, one Splunk server, and one Windows Server 2022. Diagrams to follow
 
 
 The objective is to install and configure both sysmon and splunk onto my Windows target machine and Windows Server so they can start collecting telemetry and send logs over to our splunk server. Diagrams to follow
